@@ -1,0 +1,9 @@
+- download tree, bezirk, and gebaude shape files from: https://opendata-esri-de.opendata.arcgis.com/search?collection=Dataset&q=berlin
+- tree to area ratio
+	- spatial join bezirks to trees
+	- create new field of trees / sqkm
+	- color bezirke by this field
+- built up ratio
+
+
+- solar potential of bezirks, if get raster file?

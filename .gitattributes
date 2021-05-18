@@ -1,0 +1,6 @@
+.png filter=lfs diff=lfs merge=lfs -text
+Default.gdb/** filter=lfs diff=lfs merge=lfs -text
+ImportLog/** filter=lfs diff=lfs merge=lfs -text
+Index/** filter=lfs diff=lfs merge=lfs -text
+shape_files/** filter=lfs diff=lfs merge=lfs -text
+*.tbx filter=lfs diff=lfs merge=lfs -text
